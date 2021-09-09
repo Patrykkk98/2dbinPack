@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Puzzle>
+  <MainRectangle>
+    <Width>200</Width>
+    <Height>500</Height>
+  </MainRectangle>
+  <Rectangle>
+    <Width>100</Width>
+    <Height>300</Height>
+    <Name>1</Name>
+  </Rectangle>
+  <Rectangle>
+    <Width>100</Width>
+    <Height>300</Height>
+    <Name>2</Name>
+  </Rectangle>
+  <Rectangle>
+    <Width>100</Width>
+    <Height>300</Height>
+    <Name>3</Name>
+  </Rectangle>
+  <Rectangle>
+    <Width>100</Width>
+    <Height>50</Height>
+    <Name>4</Name>
+  </Rectangle>
+  <Rectangle>
+    <Width>100</Width>
+    <Height>50</Height>
+    <Name>5</Name>
+  </Rectangle>
+  <Rectangle>
+    <Width>100</Width>
+    <Height>50</Height>
+    <Name>6</Name>
+  </Rectangle>
+</Puzzle>

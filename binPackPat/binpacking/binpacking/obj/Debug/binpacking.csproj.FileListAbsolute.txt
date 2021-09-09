@@ -1,0 +1,22 @@
+C:\Users\Patryk\AppData\Local\Temporary Projects\binpacking\obj\Debug\binpacking.MainForm.resources
+C:\Users\Patryk\AppData\Local\Temporary Projects\binpacking\obj\Debug\binpacking.Properties.Resources.resources
+C:\Users\Patryk\AppData\Local\Temporary Projects\binpacking\obj\Debug\binpacking.csproj.GenerateResource.cache
+C:\Users\Patryk\AppData\Local\Temporary Projects\binpacking\obj\Debug\binpacking.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\AppData\Local\Temporary Projects\binpacking\bin\Debug\binpacking.exe.config
+C:\Users\Patryk\AppData\Local\Temporary Projects\binpacking\bin\Debug\binpacking.exe
+C:\Users\Patryk\AppData\Local\Temporary Projects\binpacking\bin\Debug\binpacking.pdb
+C:\Users\Patryk\AppData\Local\Temporary Projects\binpacking\obj\Debug\binpacking.exe
+C:\Users\Patryk\AppData\Local\Temporary Projects\binpacking\obj\Debug\binpacking.pdb
+C:\Users\Patryk\AppData\Local\Temporary Projects\binpacking\obj\Debug\binpacking.csprojAssemblyReference.cache
+C:\Users\Patryk\Desktop\Masters\binPackPat\binpacking\binpacking\bin\Debug\binpacking.exe.config
+C:\Users\Patryk\Desktop\Masters\binPackPat\binpacking\binpacking\bin\Debug\binpacking.exe
+C:\Users\Patryk\Desktop\Masters\binPackPat\binpacking\binpacking\bin\Debug\binpacking.pdb
+C:\Users\Patryk\Desktop\Masters\binPackPat\binpacking\binpacking\obj\Debug\binpacking.csprojAssemblyReference.cache
+C:\Users\Patryk\Desktop\Masters\binPackPat\binpacking\binpacking\obj\Debug\binpacking.MainForm.resources
+C:\Users\Patryk\Desktop\Masters\binPackPat\binpacking\binpacking\obj\Debug\binpacking.Properties.Resources.resources
+C:\Users\Patryk\Desktop\Masters\binPackPat\binpacking\binpacking\obj\Debug\binpacking.csproj.GenerateResource.cache
+C:\Users\Patryk\Desktop\Masters\binPackPat\binpacking\binpacking\obj\Debug\binpacking.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\Masters\binPackPat\binpacking\binpacking\obj\Debug\binpacking.exe
+C:\Users\Patryk\Desktop\Masters\binPackPat\binpacking\binpacking\obj\Debug\binpacking.pdb
+C:\Users\Patryk\Desktop\Masters\binPackPat\binpacking\binpacking\obj\Debug\binpacking.AddDataSetForm.resources
+C:\Users\Patryk\Desktop\Masters\binPackPat\binpacking\binpacking\obj\Debug\binpacking.SettingsForm.resources
